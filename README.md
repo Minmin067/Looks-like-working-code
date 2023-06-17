@@ -1,2 +1,2 @@
 # Looks-like-working-code
-## これはgithubの勉強用に作ったリポジトリなどなどです
+C言語で動く「Hacker Typer」のような作品
